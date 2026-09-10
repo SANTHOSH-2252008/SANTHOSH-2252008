@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Santhosh Kumar 👋
 
-<!--
-**SANTHOSH-2252008/SANTHOSH-2252008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ECE Student | Hardware & Embedded Systems | AI & IoT
 
-Here are some ideas to get you started:
+I'm an Electronics and Communication Engineering student interested in
+building practical hardware and software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Interests
+
+- Embedded Systems
+- Electronics & Hardware
+- Arduino & ESP32
+- IoT
+- Robotics
+- AI & Machine Learning
+- PCB Design
+
+## 🚀 Projects
+
+### 🌍 AI Landslide Detection System
+AI-based software system for landslide risk detection using real-world
+environmental and satellite data.
+
+### ♻️ Smart Waste Segregation System
+Hardware-based system for separating wet, dry and metal waste.
+
+## 🛠️ Technologies
+
+**Programming**
+- Python
+- C
+- Java
+- HTML
+
+**Hardware**
+- Arduino
+- ESP32
+- Sensors
+- Motors
+- IoT
+- Embedded Systems
+
+## 🎯 Currently Learning
+
+- Python
+- AI & Machine Learning
+- Embedded Systems
+- IoT
+- Git & GitHub
+
+## 📫 Connect With Me
+
+GitHub: @santhosh-embedded
