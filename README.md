@@ -1,4 +1,4 @@
-# Hi, I'm Santhosh Kumar 👋
+# Hi, I'm Santhosh 👋
 
 ### ECE Student | Hardware & Embedded Systems | AI & IoT
 
